@@ -1,2 +1,3 @@
-# Quick-Cash
-An android mobile application to help employees search for small paid jobs near them and help employers find labour
+# CSCI3130 Project G13
+
+Group 13
