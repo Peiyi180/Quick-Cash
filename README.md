@@ -1,3 +1,5 @@
-# CSCI3130 Project G13
+# Setup
+Run project using Android Studio
 
-Group 13
+
+#### Note: DAL G13 Group Project
