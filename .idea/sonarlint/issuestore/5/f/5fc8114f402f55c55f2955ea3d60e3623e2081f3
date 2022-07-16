@@ -1,0 +1,35 @@
+
+s	java:S116"^Rename this field "startDate_sec_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üğ’Ú
+v	java:S116"\Rename this field "startDate_sec_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÅŸÊüÿÿÿÿ
+q	java:S116"\Rename this field "endDate_sec_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ª÷ş
+o	java:S116"ZRename this field "endDate_sec_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş’†¶
+n	java:S116!"ZRename this field "workHours_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®õp
+m	java:S116""XRename this field "workHours_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øªÊÌ
+q	java:S116%"\Rename this field "startDateET_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘“¼Ü
+o	java:S116&"ZRename this field "startDateET_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€µºâ
+o	java:S116'"ZRename this field "endDateET_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öñ¢
+r	java:S116("XRename this field "endDateET_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Â»ìÿÿÿÿÿ
+q	java:S116,"\Rename this field "workHours_startET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÄªà
+o	java:S116-"ZRename this field "workHours_endET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô„ş±
+œ
+java:S1186G"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ
+œ
+java:S1186S"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ
+œ
+java:S1186_"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ
+d
+java:S1612ø"HReplace this lambda with method reference 'this::onDateEditTextClicked'.(ˆ¢Èşÿÿÿÿÿ
+d
+java:S1612ù"HReplace this lambda with method reference 'this::onDateEditTextClicked'.(Ñ®ëçüÿÿÿÿ
+_
+java:S1612ú"HReplace this lambda with method reference 'this::onDateEditTextClicked'.(ŸÊ¦©
+_
+java:S1612û"HReplace this lambda with method reference 'this::onDateEditTextClicked'.(­ùò½
+u
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ûÇŠşÿÿÿÿ
+u
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô•ÙĞùÿÿÿÿ
+p
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(õÇ€Ó
+?
+java:S1604…"(Make this anonymous inner class a lambda(™‰î‰

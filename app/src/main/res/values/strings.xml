@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">G13 Quick Cash</string>
+    <string name="WELCOME_MSG">Welcome to QUICK CASH\n\n by GROUP 13</string>
+    <string name="newCredentialTag">QuickCash.MainActivity.newUserCredential</string>
+    <string name="lengthNotMeetMessage">Password too short</string>
+    <string name="alphanumericNotMeetMessage">Password need to be Alphanumeric</string>
+    <string name="specialCharacterNotMeetMessage">Password should contain a special character</string>
+    <string name="pwContainsWhitespaceMessage">Password should not contain whitespace.</string>
+    <string name="employee_panel">Employee Panel</string>
+    <string name="employer_panel">Employer Panel</string>
+
+    <string-array name="business_type_array">
+        <item>Construction</item>
+        <item>Education</item>
+        <item>Entertainment</item>
+        <item>Engineering</item>
+        <item>Computer</item>
+        <item>PR</item>
+        <item>Transportation</item>
+    </string-array>
+
+
+    <string-array name="city_array">
+        <item>Halifax</item>
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>New York</item>
+        <item>Boston</item>
+        <item>Tokyo</item>
+        <item>London</item>
+    </string-array>
+
+
+    <string-array name="employee_type_array">
+        <item>Full-Time</item>
+        <item>Part-Time</item>
+    </string-array>
+
+
+    <string-array name="job_sort_criteria">
+        <item>Added Date (Default)</item>
+        <item>Business Name</item>
+        <item>Business Type</item>
+        <item>City</item>
+        <item>Job start date</item>
+        <item>Job end date</item>
+        <item>Hire Type</item>
+        <item>Salary</item>
+        <item>Work Hours</item>
+        <item>Required Skill</item>
+    </string-array>
+
+
+    <string-array name="business_type_array_search">
+        <item>Not specified</item>
+        <item>Construction</item>
+        <item>Education</item>
+        <item>Entertainment</item>
+        <item>Engineering</item>
+        <item>Computer</item>
+        <item>PR</item>
+        <item>Transportation</item>
+    </string-array>
+
+
+    <string-array name="city_array_search">
+        <item>Not specified</item>
+        <item>Halifax</item>
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>New York</item>
+        <item>Boston</item>
+        <item>Tokyo</item>
+        <item>London</item>
+    </string-array>
+
+
+    <string-array name="employee_type_array_search">
+        <item>Not specified</item>
+        <item>Full-Time</item>
+        <item>Part-Time</item>
+    </string-array>
+
+    <string-array name="employee_type_array_alert">
+        <item>Any</item>
+        <item>Full-Time</item>
+        <item>Part-Time</item>
+    </string-array>
+
+    <string-array name="business_type_array_alert">
+        <item>Any</item>
+        <item>Construction</item>
+        <item>Education</item>
+        <item>Entertainment</item>
+        <item>Engineering</item>
+        <item>Computer</item>
+        <item>PR</item>
+        <item>Transportation</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="CredentialModel">credentials</string>
+
+    <string name="location_permission_denied">location_permission_denied</string>
+    <string name="permission_rationale_location">permission_rationale_location</string>
+    <string name="permission_required_toast">permission_required_toast</string>
+    <string name="ok" />
+    <string name="title_location_permission" />
+    <string name="text_location_permission" />
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="sensor">Sensor:</string>
+    <string name="cell_tower_wifi">Cell Tower + Wifi</string>
+    <string name="updates">Updates:</string>
+    <string name="off">Off</string>
+    <string name="location_updates">Location Updates</string>
+    <string name="gps_savepower">GPS/SavePower</string>
+    <string name="address">Address:</string>
+    <string name="_0_00" />
+    <string name="altitude" />
+    <string name="accuracy" />
+    <string name="speed" />
+
+    <string name="lengthTooShortMessage">country or city too short</string>
+    <string name="alphanumericInMeetMessage">country or city does not need to be Alphanumeric</string>
+    <string name="specialCharacterInMeetMessage">country or city should not contain a special character</string>
+
+
+</resources>

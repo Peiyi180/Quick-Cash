@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356221635599",
+    "project_id": "g13-quick-cash",
+    "storage_bucket": "g13-quick-cash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356221635599:android:3efc8becc6a79e5eaca77a",
+        "android_client_info": {
+          "package_name": "com.csci3130g13.g13quickcash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356221635599-5ac05sika90unr7soq31rm8792f5biuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTVsLpdUeAo1JWcjX2LwXmln8x10z-jes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356221635599-5ac05sika90unr7soq31rm8792f5biuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
